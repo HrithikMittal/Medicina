@@ -27,7 +27,7 @@ The android app lets you:
 - Realtime update.
 - Update minimum order value in realtime.
 - Block specific users from ordering.
-- Multiple order statuses.
+- Multiple order status.
 - Push notification to notifiy order status change.
 - Change map of delivery areas in realtime.
 
@@ -65,3 +65,4 @@ app/gradle.properties.sample
 
 This application is released under GNU GPLv3 (see [LICENSE](LICENSE)).
 Some of the used libraries are released under different licenses.
+
